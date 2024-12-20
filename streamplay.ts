@@ -1,3 +1,9 @@
+//##
+//## Description:
+//## Copyright 2024. All Rights Reserved.
+//## Author: Zhao Ming (zhaomingwork@qq.com)
+//##
+
 import { stringify } from "querystring"
 import { arrayBuffer } from "stream/consumers"
 import Recorder from 'recorder-core'
